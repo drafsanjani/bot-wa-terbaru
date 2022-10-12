@@ -1,16 +1,16 @@
 {
-  "ownerNumber": ["6285791458996@s.whatsapp.net"],
-  "ownerName": ["Riy"],
-  "botName": "Hinata Hyuga Bot",
+  "ownerNumber": ["6285868055463@s.whatsapp.net"],
+  "ownerName": ["Defcfkk"],
+  "botName": "Matchbox-Md",
   "youtubeOwner": "https://youtube.com/c/Riy",
-  "donasiDana": "081575886399",
-  "donasiGopay": "081575886399",
+  "donasiDana": "085868055463",
+  "donasiGopay": "085868055463",
   "sessionName": "session",
   "pathimg": "./media/hinata.jpg",
   "gamewaktu": 90,
   "limitCount": 25,
   "gcount": {
-	"prem": 35,
-	"user": 15
+	"prem": 3100,
+	"user": 45
   }
 }
